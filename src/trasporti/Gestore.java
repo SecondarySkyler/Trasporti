@@ -8,7 +8,7 @@ public interface Gestore<T> {
 
     /**
      * Aggiunge un nuovo elemento al gestore
-     * @param nuovo il nuovo elemento da da aggiungere
+     * @param nuovo il nuovo elemento da aggiungere
      */
     void aggiungi(T nuovo);
 
